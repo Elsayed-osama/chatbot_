@@ -1,0 +1,5 @@
+together
+dotenv
+fastapi
+fastapi-cli
+streamlit
